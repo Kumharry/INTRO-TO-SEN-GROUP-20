@@ -18,3 +18,6 @@ Srtipe payment api test link
 ## >> [CLICK HERE TO SEE THE CARD PAYMENT TEST LINK (ARTIFY)](https://buy.stripe.com/test_3csaFCbuU3pE5Xi5kk) <<<
 FAPSHI payment api test link
 ## >> [CLICK HERE TO SEE THE MOBILE MONEY PAYMENT TEST LINK (ARTIFY)](https://checkout.fapshi.com/link/28553440) <<<
+
+Email Norification for booking to costummer
+## >> [CLICK HERE TO SEE THE development of the email notification (ARTIFY)](https://bubble.io/page?id=monkam&tab=tabs-2&name=index) <<<
